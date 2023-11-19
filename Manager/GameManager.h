@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #pragma region エンジン
 #include <Novice.h>
 #include "inputManager.h"

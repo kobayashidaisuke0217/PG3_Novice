@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #include <Novice.h>
 #include <stdint.h>
 class inputManager {

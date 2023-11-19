@@ -1,4 +1,4 @@
-﻿#include "StageScene.h"
+#include "StageScene.h"
 
 StageScene::~StageScene() {}
 
